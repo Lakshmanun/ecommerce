@@ -16,7 +16,7 @@ export default function Header() {
                             className="m-auto" />
                     </Navbar.Text>
                     <Nav>
-                        <Dropdown aligRight>
+                        <Dropdown >
                             <Dropdown.Toggle variant="success">
                                 <FaShoppingCart color='white' fontSize={25} />
                                 <Badge>
